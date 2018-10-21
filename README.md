@@ -11,9 +11,9 @@ Internship Assignment
 ![alt text](https://github.com/Pravinbat/WebPage-LOGIN/blob/master/Image3.JPG "SIGN IN PAGE")
 
 ## TO TEST THE CODE
-# STEP 1: CLONE OR DOWNLOAD
-# STEP 2: OPEN CMD
-# STEP 3: npm install
-# STEP 4: npm run development
+### STEP 1: CLONE OR DOWNLOAD
+### STEP 2: OPEN CMD
+### STEP 3: npm install
+### STEP 4: npm run development
 
 ## CHECK LOCALHOST: 3000
